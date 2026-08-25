@@ -2,11 +2,11 @@
 
 # 🎮 Hangman Game
 
-### Programming Fundamentals Game Project
+### Python Programming Project
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![Hangman](https://img.shields.io/badge/Hangman-Game-0D1117?style=for-the-badge)
 ![Programming](https://img.shields.io/badge/Programming-Fundamentals-0D1117?style=for-the-badge)
-![Game](https://img.shields.io/badge/Game-Development-0D1117?style=for-the-badge)
 
 </div>
 
@@ -14,36 +14,46 @@
 
 ## 📌 Project Overview
 
-The **Hangman Game** is a programming project based on the classic word-guessing game.
+The **Hangman Game** is a Python project based on the classic word-guessing game.
 
-The application allows the player to guess letters and attempt to discover a hidden word before reaching the maximum number of incorrect attempts.
+The player attempts to discover a hidden word by guessing letters while working within a limited number of incorrect attempts.
 
-> 🚧 The programming language, complete source code, screenshots, and exact game features will be added after reviewing the original project files.
+The project focuses on applying core Python programming concepts through an interactive game.
+
+> 🚧 The complete source code, screenshots, and exact game features will be added after the original project files are reviewed.
 
 ---
 
 ## 🧠 Concepts Covered
 
-* Programming Fundamentals
-* Conditional Logic
+* Python Programming
+* Conditional Statements
 * Loops
+* Functions
 * User Input
+* String Manipulation
+* Lists
 * Game Logic
-* String Handling
 * Problem Solving
+
+---
+
+## 🛠️ Technology
+
+`Python`
 
 ---
 
 ## 🎯 Game Concept
 
-```text
+```text id="h8i13e"
 Start Game
     ↓
-Select Hidden Word
+Choose Hidden Word
     ↓
-Player Enters Guess
+Player Enters Letter
     ↓
-Check Letter
+Check Guess
     ↓
 Update Word / Attempts
     ↓
@@ -56,17 +66,34 @@ Word Completed?
 
 ---
 
-## 🛠️ Technology
+## 🎮 Gameplay
 
-The programming language and final technologies will be added after the project files are reviewed.
+The game follows the traditional Hangman concept:
+
+* A hidden word is selected.
+* The player guesses letters.
+* Correct letters are revealed.
+* Incorrect guesses reduce the available attempts.
+* The game continues until the word is discovered or the allowed attempts are exhausted.
+
+The exact implementation will be documented after reviewing the final Python source code.
 
 ---
 
 ## ✨ Features
 
-The exact feature list will be added after reviewing the source code.
+The exact feature list will be added after reviewing the project files.
 
-Possible project details such as difficulty levels, categories, scoring, GUI, word lists, or multiplayer functionality will only be included if they exist in the original project.
+Any additional features such as:
+
+* multiple rounds
+* difficulty levels
+* word categories
+* scoring
+* replay option
+* graphical interface
+
+will only be included if they actually exist in the original project.
 
 ---
 
@@ -76,21 +103,31 @@ Game screenshots will be added soon.
 
 ---
 
+## 🎓 Academic Context
+
+**Project:** Hangman Game
+**Language:** Python
+**Project Type:** Programming Project
+
+---
+
 ## 📚 Learning Outcomes
 
 This project helped strengthen my understanding of:
 
-* Programming logic
-* User-input handling
-* Conditional statements
+* Python programming fundamentals
+* Conditional logic
 * Loops
+* Functions
 * String manipulation
-* Building simple interactive applications
+* User-input handling
+* Building interactive applications
+* Game logic and problem solving
 
 ---
 
 <div align="center">
 
-### 🎮 Guess • Think • Win
+### 🐍 Think • Guess • Code
 
 </div>
